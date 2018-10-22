@@ -1,0 +1,36 @@
+package tp.pr1.mv;
+
+import tp.pr1.mv.ENUM_BYTECODE;
+
+public class ByteCode {
+
+	private ENUM_BYTECODE name;
+	private int param;// solo necesario para las instrucciones push,store y load
+
+	public ByteCode(ENUM_BYTECODE name, int param) {
+		this.name = name;
+		this.param = param;
+	}
+
+	public ByteCode(ENUM_BYTECODE name) {
+		this(name, -1);
+	}
+
+	public int getparam() { // devuelve el parámetro de la instrucción
+		int getparam;
+		getparam = this.param;
+		return getparam;
+	}
+
+	public ENUM_BYTECODE getname() {// devuelve el enumerado de la instrucción	
+		ENUM_BYTECODE getname;
+		getname = this.name;
+		return getname;
+	}
+
+	public String toString() {
+		if (this.name.getparam() == 0)
+			return this.name.name();
+		return name.name() + " " + this.param;
+	}
+}
