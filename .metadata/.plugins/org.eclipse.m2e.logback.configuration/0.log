@@ -531,3 +531,26 @@ org.eclipse.core.runtime.CoreException: Launch configuration New_configuration r
 	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.run(ProjectRegistryRefreshJob.java:81) [org.eclipse.m2e.core_1.7.0.20160603-1933.jar:na]
 	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55) [org.eclipse.core.jobs_3.8.0.v20160509-0411.jar:na]
 2018-10-23 09:25:46,623 [Worker-3] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2018-10-23 10:05:59,767 [Worker-34] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: es.ucm.fdi.tp:P4-Tu-Nombre-Aqui:1.0-SNAPSHOT @ C:\Users\ramon\Documents\GitHub\Practicas-de-Tp\pr4\basecode_19_feb_2017-mf\basecode_19_feb_2017-mf\pom.xml.
+2018-10-23 10:06:00,939 [Worker-34] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /P4-Tu-Nombre-Aqui/src/main/java
+2018-10-23 10:06:00,939 [Worker-34] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /P4-Tu-Nombre-Aqui/src/main/resources
+2018-10-23 10:06:00,939 [Worker-34] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /P4-Tu-Nombre-Aqui/src/test/java
+2018-10-23 10:06:00,970 [Worker-34] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 3 sec
+2018-10-23 10:06:01,614 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-23 10:06:01,614 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-23 10:06:01,614 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-23 10:06:01,614 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ramon\Documents\GitHub\Practicas-de-Tp\pr4\basecode_19_feb_2017-mf\basecode_19_feb_2017-mf\src\test\resources
+2018-10-23 10:06:26,556 [Worker-32] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: es.ucm.fdi.tp:P4-Tu-Nombre-Aqui:1.0-SNAPSHOT @ C:\Users\ramon\Documents\GitHub\Practicas-de-Tp\pr4\basecode_19_feb_2017-mf\basecode_19_feb_2017-mf\pom.xml.
+2018-10-23 10:06:26,650 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-23 10:06:26,650 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-23 10:06:26,650 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-23 10:06:26,650 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ramon\Documents\GitHub\Practicas-de-Tp\pr4\basecode_19_feb_2017-mf\basecode_19_feb_2017-mf\src\test\resources
+2018-10-23 10:06:28,002 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-23 10:06:28,002 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-23 10:06:28,017 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-23 10:06:28,017 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ramon\Documents\GitHub\Practicas-de-Tp\pr4\basecode_19_feb_2017-mf\basecode_19_feb_2017-mf\src\test\resources
+2018-10-23 10:09:09,221 [Worker-36] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: es.ucm.fdi.tp:p5_mfreire:1.0-SNAPSHOT @ C:\Users\ramon\Documents\GitHub\Practicas-de-Tp\Practica6\pom.xml.
+2018-10-23 10:09:10,076 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-23 10:09:10,076 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 33 resources
+2018-10-23 10:09:10,092 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-23 10:09:10,092 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ramon\Documents\GitHub\Practicas-de-Tp\Practica6\src\test\resources
