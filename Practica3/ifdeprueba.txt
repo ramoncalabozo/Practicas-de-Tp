@@ -1,0 +1,6 @@
+x = 7
+y = 3
+if y < x
+x = x - 1
+endif
+end
